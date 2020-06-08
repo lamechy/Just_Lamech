@@ -10,39 +10,12 @@
     /* Scroll to top
     ===================*/
     $.scrollUp({
-        scrollText: '<i class="lnr lnr-arrow-up"></i>',
+        scrollText: '<i class="lnr lnr-pointer-up"></i>',
         easingType: 'linear',
         scrollSpeed: 900,
         animation: 'fade'
     });
-    /* testimonials Slider Active
-    =============================
-    $('.gallery-slide').owlCarousel({
-        loop: true,
-        margin: 0,
-        responsiveClass: true,
-        nav: false,
-        autoplay: true,
-        autoplayTimeout: 4000,
-        smartSpeed: 1000,
-        navText: ['<i class="lnr lnr-chevron-left"></i>', '<i class="lnr lnr-chevron-right"></i>'],
-        responsive: {
-            0: {
-                items: 1,
-            },
-            600: {
-                items: 2
-            },
-            1280: {
-                items: 3
-            },
-            1500: {
-                items: 4
-            }
-        }
-    });
-    /* testimonials Slider Active
-    =============================*/
+    
     $('.team-slide').owlCarousel({
         loop: true,
         margin: 0,
