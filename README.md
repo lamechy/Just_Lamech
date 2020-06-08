@@ -22,6 +22,10 @@ This landing page has:
 ![image.png](images/just_lamech1.png)
 ![image.png](images/just_lamech2.png)
 
+## Known Bugs
+
+No known bugs currently but potential bugs are welcome to be reported.
+
 ## Technologies Used
 **HTML**
 **JavaScript**
