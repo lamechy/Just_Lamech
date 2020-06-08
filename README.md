@@ -33,6 +33,8 @@ No known bugs currently but potential bugs are welcome to be reported.
 **Bootstrap**
 **JQuery**
 **Fonts**
+## Contact 
+Am always available. Reach me via email: lamechongondi88@gmail.com
 
 ### License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
