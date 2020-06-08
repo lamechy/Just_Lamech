@@ -16,7 +16,7 @@
         animation: 'fade'
     });
     /* testimonials Slider Active
-    =============================*/
+    =============================
     $('.gallery-slide').owlCarousel({
         loop: true,
         margin: 0,
