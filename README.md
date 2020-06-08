@@ -17,3 +17,7 @@ This landing page has:
 - My Vision: A summary of what I aspire to achieve
 - My Projects that link to GitHub
 - Just get about me.
+
+## GUI
+![image.png](images/just_lamech1.png)
+![image.png](images/just_lamech2.png)
