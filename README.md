@@ -16,7 +16,7 @@ This landing page has:
 - A brief intro and my resume
 - My Vision: A summary of what I aspire to achieve
 - My Projects that link to GitHub
-- Just get about me.
+- Just get to know about me.
 
 ## GUI
 ![image.png](images/just_lamech1.png)
