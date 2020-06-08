@@ -37,10 +37,10 @@
             }
         }
     });
-    $(".toggole-boxs").accordion();
-    /*---------------------------
+   /* $(".toggole-boxs").accordion();
+    ---------------------------
     MICHIMP INTEGRATION
-    -----------------------------*/
+    -----------------------------
     $('#mc-form').ajaxChimp({
         url: 'https://quomodosoft.us14.list-manage.com/subscribe/post?u=b2a3f199e321346f8785d48fb&amp;id=d0323b0697', //Set Your Mailchamp URL
         callback: function (resp) {
@@ -49,7 +49,7 @@
                 $('body').css('overflow-y', 'scroll');
             }
         }
-    });
+    }); */
 
     /*-- Smoth-Scroll --*/
     $('.mainmenu-area a[href*="#"]')
