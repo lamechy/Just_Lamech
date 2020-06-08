@@ -210,7 +210,7 @@ input:-webkit-autofill:focus {
     position: relative;
     z-index: 1;
 }
-
+/* -------------------------------*/
 .overlay:before {
     content: "";
     position: absolute;
