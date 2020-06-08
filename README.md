@@ -21,3 +21,11 @@ This landing page has:
 ## GUI
 ![image.png](images/just_lamech1.png)
 ![image.png](images/just_lamech2.png)
+
+## Technologies Used
+**HTML**
+**JavaScript**
+**CSS**
+**Bootstrap**
+**JQuery**
+**Fonts**
