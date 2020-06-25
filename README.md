@@ -1,5 +1,5 @@
 # Application Name
-Just Lamech Landing Page.
+Just Lamech Landing Page. Check it out on this link ---> https://lamechy.github.io/Just_Lamech/
 
 #### Brief description of application, date of current version
 This is my landing page to guide my peers, collaborators and potential employers on the projects I'm working on.
